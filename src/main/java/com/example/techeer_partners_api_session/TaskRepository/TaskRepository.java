@@ -1,6 +1,6 @@
 package com.example.techeer_partners_api_session.TaskRepository;
 
-import com.example.techeer_partners_api_session.model.Task;
+import com.example.techeer_partners_api_session.domain.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
